@@ -1,0 +1,6 @@
+.abbrev_defs*
+backup/**/*
+elpa/**/*
+eshell/**/*
+idlwave/**/*
+auto-save-list/**/*
